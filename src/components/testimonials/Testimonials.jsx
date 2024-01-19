@@ -12,7 +12,7 @@ import 'swiper/css/pagination';
 const Testimonials = () => {
   return (
 <section id='testmonials'>
-  <h5>Review from clients</h5>
+  {/* <h5>Review from clients</h5> */}
   <h2>Testmonials</h2>
   <Swiper className="container testmonials_container">
     <SwiperSlide className='testmonial'>

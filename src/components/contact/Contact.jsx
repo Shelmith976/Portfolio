@@ -13,7 +13,7 @@ const Contact = () => {
       <article className='contact_option'>
         <TfiEmail/>
 <h4>EMAIL</h4>
-<h5>shelmithkimemia8@gmail.com</h5>
+<h5>shelmithkimemia44@gmail.com</h5>
 <a href="mailto:shelmithkimemia8@gmail.com" target='_blank'>Send Message</a>  
     </article>
     <article className='contact_option'>

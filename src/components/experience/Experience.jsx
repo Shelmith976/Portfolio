@@ -57,16 +57,8 @@ const Experience = () => {
     <h3>Backend Development</h3>
       <div className="experience_content">
         <article className='experience_details'>
-  <BsCheckCircleFill className='experience_details-icon'/>
    <div>
-   <h4>NODE JS</h4>
-   <small className='text-light'>Experienced</small>  
-   </div>
-      </article>
-      <article className='experience_details'>
-  <BsCheckCircleFill className='experience_details-icon'/>
-   <div>
-   <h4>NODE JS</h4>
+   <h4>MYSQL</h4>
    <small className='text-light'>Experienced</small>  
    </div>
       </article>
@@ -78,14 +70,6 @@ const Experience = () => {
     </div>
       </article>
       <article className='experience_details'>
-  <BsCheckCircleFill className='experience_details-icon'/>
-    <div>
-    <h4>MONGODB</h4>
-   <small className='text-light'>Experienced</small>  
-    </div>
-      </article>
-      <article className='experience_details'>
-  <BsCheckCircleFill className='experience_details-icon'/>
 <div>
 <h4>MONGODB</h4>
    <small className='text-light'>Experienced</small>  
