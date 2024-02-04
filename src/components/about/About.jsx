@@ -1,6 +1,6 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/DSC_0092.JPG'
+import ME from '../../assets/pp.png'
 import {BiAward} from 'react-icons/bi'
 import {RiFoldersLine} from 'react-icons/ri'
 import {AiOutlineUsergroupAdd} from'react-icons/ai'
@@ -21,7 +21,7 @@ const About = () => {
   <article className='about_card'>
     <BiAward className='about_icon'/>
     <h5>Experience</h5>
-    <small>3+ years freelancing Experience</small>
+    <small>2+ years freelancing Experience</small>
   </article>
   <article className='about_card'>
     <AiOutlineUsergroupAdd className='about_icon'/>
